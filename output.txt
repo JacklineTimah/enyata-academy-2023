@@ -1,0 +1,18 @@
+total 5320
+drwxr-xr-x 1 PC 197121       0 May 22 16:51 ./
+drwxr-xr-x 1 PC 197121       0 May 22 16:51 ../
+-rw-r--r-- 1 PC 197121   18765 Apr 19 06:02 LICENSE.txt
+-rw-r--r-- 1 PC 197121  242076 Apr 19 06:02 ReleaseNotes.html
+drwxr-xr-x 1 PC 197121       0 May 22 16:49 bin/
+drwxr-xr-x 1 PC 197121       0 May 22 16:49 cmd/
+drwxr-xr-x 1 PC 197121       0 May 22 16:49 dev/
+drwxr-xr-x 1 PC 197121       0 May 22 16:51 etc/
+-rwxr-xr-x 1 PC 197121  137264 Apr 19 05:40 git-bash.exe*
+-rwxr-xr-x 1 PC 197121  136752 Apr 19 05:40 git-cmd.exe*
+drwxr-xr-x 1 PC 197121       0 May 22 16:47 mingw64/
+dr-xr-xr-x 9 PC 197121       0 May 24 05:52 proc/
+drwxr-xr-x 1 PC 197121       0 May 24 05:38 tmp/
+-rw-r--r-- 1 PC 197121 1252396 May 22 16:49 unins000.dat
+-rwxr-xr-x 1 PC 197121 3215248 May 22 16:44 unins000.exe*
+-rw-r--r-- 1 PC 197121   24183 May 22 16:49 unins000.msg
+drwxr-xr-x 1 PC 197121       0 May 22 16:49 usr/
