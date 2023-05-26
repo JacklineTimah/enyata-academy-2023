@@ -1,0 +1,17 @@
+1.'let' 'var' and 'const' are used to declare variables in JavaScript. 
+The 'let' allows for variable reassignment, while const creates a variable with a constant 
+(unchanging) value and var creates variables you can use anywhere inside the function.
+Lastly,variables defined with 'let' and 'const' cannot be redeclared but 'var' can be redeclared.
+
+2.A variable after being defined can be used to store information which is easily referenced.
+
+3. A string is declare within a double or single quotes.Example "Jackline" or 'Jackline' is a string.
+
+4. Yes, since Strings are text, written within double or single quotes.
+
+5. "9" with quotes is a String and 9 without a quotes is a Number.
+
+6. Declaration means creating or assigning or storing a memory(Variable)
+   Redeclaration means declaring a Variable multiple times.
+   Assignment means assigning values to JavaScript variables.
+   Reassignment means changing previous value of a Variable to a new one.
